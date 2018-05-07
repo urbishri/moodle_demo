@@ -25,12 +25,12 @@ variable "ami" {
 
 variable "access_key" {
   description = "Access Key"
-  default = "AKIAIOHXMW3CQA6PIIOQ"
+  default = "AKIAICQV3SIDI4ETTP2A"
 }
 
 variable "secret_key" {
   description = "Secret Access Key"
-  default = "UeOu+53oL9mkOuW4O4gxPeamXV0yoloiX+UfqZbp"
+  default = "lB06lUE9RSBrm+hP5iprSdOGxnt9m9l1S7Y+l++X"
 }
 
 variable "bucket_name" {
